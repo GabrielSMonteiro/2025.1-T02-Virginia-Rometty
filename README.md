@@ -10,7 +10,7 @@
     <tr>
         <td align="center">
             <a href="link do github">
-                <img style="border-radius: 50%; width: 100px; heigth: 100px" src="../RepositorioTemplate/imgs/virginia.jpg" />
+                <img style="border-radius: 50%; width: 100px; heigth: 100px" src="imgs/virginia.jpg" />
             </a>
         </td>
 </table>
@@ -29,7 +29,7 @@
     <tr>
         <td align="center">
             <a href="link do github">
-                <img style="border-radius: 10%; width: 100px; heigth: 100px" src="../RepositorioTemplate/imgs/Gabriel_Monteiro.png" />
+                <img style="border-radius: 10%; width: 100px; heigth: 100px" src="imgs/Gabriel_Monteiro.png" />
                 <h5 class="text-center">Gabriel Monteiro</h5>
                 <h5 class="text-center">221021975</h5>
             </a>
