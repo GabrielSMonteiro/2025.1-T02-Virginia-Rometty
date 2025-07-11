@@ -1,6 +1,6 @@
 site_name: Virginia Rometty
 site_description: Pages do trabalho Virginia Rometty
-site_url: https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T01-KAY-MCNULTY
+site_url: https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY
 site_author: Grupo Kay McNulty
 repo_name: Virginia Rometty
 repo_url: https://github.com/GabrielSMonteiro/2025.1-T02-Virginia-Rometty
@@ -54,3 +54,18 @@ extra_javascript:
 
 nav:
   - Início: index.md
+  - Fase 01: fase1/proposito_avaliacao.md
+  - Fase 02:
+      - GQM: fase2/gqm_definicao_agromart.md
+      - Abstraction Sheets: fase2/abstraction-sheet.md
+  - Fase 03: fase3/fase3.md
+  - Fase 04:
+      - Compatibilidade:
+          - Q1: fase4/compatibilidade/q1.md
+          - Q2: fase4/compatibilidade/q2.md
+      - Usabilidade:
+          - Q1: fase4/usabilidade/q1.md
+          - Q2: fase4/usabilidade/q2.md
+          - Q3: fase4/usabilidade/q3.md
+      - Conclusão: fase4/conclusao.md
+  - Entrega Final: entregafinal/gestao.md
