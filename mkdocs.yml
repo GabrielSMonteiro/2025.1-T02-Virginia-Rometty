@@ -1,0 +1,56 @@
+site_name: Virginia Rometty
+site_description: Pages do trabalho Virginia Rometty
+site_url: https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T01-KAY-MCNULTY
+site_author: Grupo Kay McNulty
+repo_name: Virginia Rometty
+repo_url: https://github.com/GabrielSMonteiro/2025.1-T02-Virginia-Rometty
+edit_uri: edit/docs/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/virginia.jpg
+  favicon: assets/virginia.jpg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    # Modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    # Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+extra_javascript:
+  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
+
+nav:
+  - Início: index.md
