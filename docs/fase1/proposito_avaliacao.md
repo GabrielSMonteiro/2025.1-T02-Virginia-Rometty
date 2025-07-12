@@ -1,9 +1,8 @@
 # Fase 1 - Estabelecer os Requisitos de Avaliação de Qualidade
-## Plataforma AgroMart - Foco em Portabilidade e Conformidade
 
-### Aplicação dos Modelos SQUARE, GQM e Q-Rapids
 ## 1. Propósito da Avaliação
-### 1.1 Produto, Domínio e Versão a ser Analisado
+
+### 1.1 Produto analisado
 **Nome do Produto:** AgroMart  
 **Versão:** 1.0 (em desenvolvimento contínuo)  
 **Repositório:** https://github.com/AgroMart  
@@ -192,3 +191,9 @@ O modelo Q-Rapids agrega dados em indicadores estratégicos para tomada de decis
 - Sistema operacional: Windows e Linux
 - Navegadores
 - As linguagens de programações necessárias para rodar
+
+## 📝 Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+| 1.0    | 12/07/2025 | Criação documento da fase 01 | [Gabriel Monteiro](https://github.com/GabrielSMonteiro) 

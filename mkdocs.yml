@@ -54,10 +54,12 @@ extra_javascript:
 
 nav:
   - Início: index.md
-  - Fase 01: fase1/proposito_avaliacao.md
+  - Fase 01: 
+      - Fase 01: fase1/proposito_avaliacao.md
+      - Ferramentas: planejamento/ferramentas.md
   - Fase 02:
-      - GQM: fase2/gqm_definicao_agromart.md
-      - Abstraction Sheets: fase2/abstraction-sheet.md
+      - GQM: fase2/detalhamento.md
+      - Abstraction Sheets: fase2/abstraction.md
   - Fase 03: fase3/fase3.md
   - Fase 04:
       - Compatibilidade:
