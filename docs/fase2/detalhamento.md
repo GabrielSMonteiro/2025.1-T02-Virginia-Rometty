@@ -139,4 +139,4 @@ A ideia fundamental do Agromart é facilitar o comércio de produtos agroecológ
 
 | Versão | Data | Descrição | Autor(es) |
 | ------ | ---- | --------- | --------- |
-| 1.0    | 12/07/2025 | Criação documento da fase 01 | [Gabriel Monteiro](https://github.com/GabrielSMonteiro) 
+| 1.0    | 12/07/2025 | Criação documento da fase 02 | [Gabriel Monteiro](https://github.com/GabrielSMonteiro) 
