@@ -44,7 +44,7 @@ Nessa fase, será documentado todo o trabalho de execução da avaliação do pr
 
 ### 4.2 Conformidade  
 
-| Métrica (ID) | Descrição | Forma de Cálculo | Nível “Aceitável” | Nível “Alvo” |
+| Métrica (ID) | Descrição | Forma de Cálculo | Aceitável | Esperado |
 |--------------|-----------|------------------|------------------|--------------|
 | 05 | Endpoints em conformidade | Endpoints conformes / total × 100 | ≥ 90% | ≥ 95% |
 | 06 | Violações ESLint | Violações / 1 000  | ≤ 3 | ≤ 1 |
