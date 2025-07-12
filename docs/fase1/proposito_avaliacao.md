@@ -192,6 +192,11 @@ O modelo Q-Rapids agrega dados em indicadores estratégicos para tomada de decis
 - Navegadores
 - As linguagens de programações necessárias para rodar
 
+## Referências Bibliográficas
+
+- ONU – Organização das Nações Unidas. *Objetivos de Desenvolvimento Sustentável (Agenda 2030)*. Disponível em: [https://brasil.un.org/pt-br/sdgs](https://brasil.un.org/pt-br/sdgs). Acesso em: 11 jul. 2025.
+
+
 ## 📝 Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) |

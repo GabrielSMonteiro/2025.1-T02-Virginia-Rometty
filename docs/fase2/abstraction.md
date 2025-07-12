@@ -7,7 +7,7 @@
 | **Foco de qualidade** | Portabilidade |
 | **Ponto de Vista** | -  Desenvolvedores e  Usuários finais |
 | **Fatores de Variação** | -  Sistemas operacionais mobile (IOS e Android) <br> - Navegadores web (Chrome, Firefox, Edge e Brave) <br> |
-| **Hipóteses de Base** | - **H1:** A plataforma na web funciona em 100% dos navegadores <br> - **H2:** É possível intalar em 90% dos dispositivos<br> - **H3:** O tempo médio de build para uma nova plataforma não excede 6 horas <br> - **H4:** Taxa de crashes específicos de plataforma ≤ 1% por sessão |
+| **Hipóteses de Base** | - **H1:** A plataforma na web funciona em 100% dos navegadores <br> - **H2:** É possível intalar em 90% dos dispositivos<br> - **H3:** O tempo médio de build para uma nova plataforma não excede 6 horas <br> - **H4:** Taxa de bugs específicos de plataforma ≤ 30% por uso |
 | **Impacto dos Fatores de Variação** | -  Versões antigas de sistema operacional podem aumentar falhas de instalação e mudanças de arquitetura podem acabar estendendo o tempo de build |
 
 ## Conformidade  

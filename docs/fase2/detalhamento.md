@@ -1,108 +1,139 @@
-## 3. Descrição Detalhada do Produto
+# Fase de definição dos objetivos
 
-### 3.1 Funcionalidades Principais
+## 1. O que o Agromart pode fazer
 
-O AgroMart possui **26 funcionalidades** distribuídas entre diferentes perfis de usuário:
+### 1.1 Funcionalidades principais observadas
 
-**Para Co-agricultores (15 funcionalidades):**
-
-- Gerenciar conta (criar, editar, recuperar senha)
-- Acesso às lojas e produtos (listagem, pesquisa, localização)
-- Gerenciar planos de assinatura
-- Realizar pedidos de cestas e produtos avulsos
+- Gerenciar conta
+- Acesso às lojas e produtos
 - Gerenciar endereços de entrega
 - Acesso ao suporte e contato com agricultores
+- Visualizar e alterar carrinho de compras
 
-**Para Administradores/Agricultores (11 funcionalidades):**
+**Funcionalidades importantes para a avaliação:**
 
-- Gerenciar conta e autenticação
-- Gerenciar planos de assinatura
-- Gerenciar cestas agroecológicas
-- Gerenciar estoque de produtos avulsos
-- Visualizar assinantes
-- Gerenciar extratos e relatórios financeiros
+1. **Compras:** Adicionar ao carrinho e fazer as compras
+2. **Comunicação:** Sistema de notificações
+4. **Autenticação:** Sistema de login
 
-**Funcionalidades Críticas para Avaliação:**
+### 1.2 Tipos de usuários
 
-1. **Compras:** Adicionar ao carrinho, comprar cestas, comprar produtos, comprar planos
-2. **Gerenciamento:** Interação com produtos, cestas, co-agricultores e pedidos
-3. **Comunicação:** Sistema de notificações e contato direto
-4. **Autenticação:** Sistema de login e gestão de usuários
+- **Agricultores** 
+- **Consumidores** 
+- **Administradores** 
 
-### 3.3 Usuários e Ambiente de Uso
-**Perfis de Usuário:**
+### 1.3 Ambientes
 
-- **Agricultores:** Usuários com conhecimento técnico limitado, necessitam interface intuitiva
-- **Co-agricultores:** Consumidores diversos, acesso via dispositivos móveis
-- **Administradores:** Gerenciam todo o sistema CSA
-
-**Ambiente de Operação:**
-
-- **Dispositivos:** Smartphones iOS/Android, computadores desktop/laptop
-- **Navegadores:** Chrome, Firefox, Safari, Edge
+- **Dispositivos:** Celulares e computadores
+- **Navegadores:** Chrome, Firefox, Brave e Edge
 - **Conectividade:** Funcionamento em diferentes condições de rede
-- **Localização:** Foco inicial no Brasil, potencial expansão internacional
-- **Contexto:** Regiões com acesso tecnológico limitado, interface acessível para uso em celulares
+- **Contexto:** Regiões com acesso tecnológico limitado
 
-## 4. Categorização do Produto
+## 2. Critérios de Avaliação Específicos
 
-### 4.1 Classificação por Domínio
-
-- **Categoria:** Software Comercial para Agronegócio
-- **Modelo:** COTS (Commercial Off-The-Shelf Software) - todos os usuários utilizam o mesmo produto
-- **Arquitetura:** Sistema distribuído cliente-servidor
-- **Licença:** GPL (General Public License) - Software Livre
-
-### 4.2 Características Técnicas
-
-- **Paradigma:** Desenvolvimento multiplataforma híbrido
-- **Padrão Arquitetural:** Cliente-servidor com API REST
-- **Tecnologia Base:** Ecossistema JavaScript (React/React Native/Node.js)
-- **Estratégia de Dados:** Banco relacional com API centralizada
-- **Filosofia:** "Learn once, write anywhere" (React/React Native)
-
-## 5. Critérios de Avaliação Específicos
-
-### 5.1 Portabilidade - Subcaracterísticas (ISO/IEC 25010)
+### 2.1 Portabilidade - Subcaracterísticas (ISO/IEC 25010)
 
 **Adaptabilidade:**
 
-- Capacidade de adaptação a diferentes sistemas operacionais (iOS, Android, Windows, macOS, Linux)
-- Flexibilidade para diferentes configurações de hardware
-- Facilidade de customização para diferentes CSAs
+- Capacidade de adaptação a diferentes sistemas operacionais
+- Facilidade de personalizar para diferentes CSAs
 
 **Instalabilidade:**
 
-- Facilidade de instalação do aplicativo mobile através das app stores
-- Simplicidade do processo de deploy da aplicação web
-- Documentação clara para instalação e configuração local
+- Facilidade de instalar o aplicativo
+- Facilidade de fazer o deploy do modelo web
+- Documentação clara
 
-**Substituibilidade:**
-
-- Capacidade de substituir componentes sem afetar o sistema
-- Migração entre diferentes ambientes de deployment
-- Flexibilidade para mudanças de infraestrutura
-
-### 5.2 Conformidade - Aspectos Avaliados
+### 2.2 Conformidade
 
 **Padrões de Código:**
 
-- Aderência às convenções JavaScript/React estabelecidas pela comunidade
-- Uso adequado de ESLint para padronização e detecção de problemas
-- Aplicação de boas práticas de desenvolvimento (clean code, SOLID)
+- Estar conforme as boas práticas do JavaScript/React
+- Uso do ESLint para padronização e detecção de problemas
+- Aplicação de boas práticas de desenvolvimento
 
 **Padrões de API:**
 
-- Conformidade com princípios REST (Richardson Maturity Model)
-- Documentação adequada via Swagger/OpenAPI
+- Documentação adequada
 - Versionamento apropriado de APIs
-- Códigos de status HTTP corretos
 
 **Padrões de Acessibilidade:**
 
-- Conformidade com diretrizes WCAG (Web Content Accessibility Guidelines)
+- Conformidade com as ISOs
 - Usabilidade para pessoas com deficiência
 - Compatibilidade com tecnologias assistivas
+
+## 3. Objetivo do AgroMart
+
+A ideia fundamental do Agromart é facilitar o comércio de produtos agroecológicos, conectando os pequenos agricultores familiares aos consumidores por meio de uma plataforma de fácil uso e com bastante eficiência, considerando pessoas com baixa familiaridade tecnológica e que, em seu contexto inicial de pandemia, precisavam manter um distanciamento social.
+
+## 3.1 Objetivo de medição de Portabilidade
+
+**Analisar:** o sistema AgroMart   
+**Para o propósito de:** avaliar a capacidade de instalar, executar e manter a plataforma em diferentes ambientes tecnológicos  
+**Com respeito a:** adaptabilidade e instalabilidade entre diferentes ambientes  
+**Do ponto de vista de:** desenvolvedores e usuários finais  
+**No contexto de:** sistemas operacionais móveis (iOS e Android) e navegadores web (Chrome, Firefox, Edge e Brave)
+
+### 3.1.1 Questões do do objetivo da medição de Portabilidade
+
+- **Q1:** A plataforma web funciona corretamente em todos os navegadores principais?  
+  **Hipótese Q1:** A plataforma na web funciona em 100% dos navegadores testados (Chrome, Firefox, Edge, Brave)
+
+- **Q2:** É possível instalar e executar o aplicativo móvel em diferentes dispositivos?  
+  **Hipótese Q2:** É possível instalar em 90% dos dispositivos móveis testados (iOS e Android)
+
+- **Q3:** Qual é o tempo necessário para adaptar a plataforma para uma nova arquitetura ou ambiente?  
+  **Hipótese Q3:** O tempo médio de build para uma nova plataforma não excede 6 horas
+
+- **Q4:** A plataforma apresenta estabilidade consistente entre diferentes ambientes?  
+  **Hipótese Q4:** Taxa de bugs da plataforma ≤ 30% por  uso
+
+## 3.2 Objetivo de da medição de Conformidade
+
+**Analisar:** a arquitetura de software do AgroMart
+**Para o propósito de:** verificar a conformidade da qualidade de acordo com ISO/IEC 25010
+**Com respeito a:** conformidade funcional e da documentação 
+**Do ponto de vista de:** desenvolvedores e da ISO/IEC 25010  
+**No contexto de:** mudanças das normas e atualizações das bibliotecas React/Strapi
+
+### 3.2.1 Questões do objetivo de Conformidade
+
+- **Q1:** Os endpoints da API estão em conformidade com os padrões REST e documentação OpenAPI?  
+  **Hipótese Q1:** ≥ 90% dos endpoints estão em conformidade com os padrões estabelecidos
+
+- **Q2:** O código-fonte atende aos padrões de qualidade definidos pelo ESLint?  
+  **Hipótese Q2:** Violação do ESLint ≤ 3 por mil linhas de código
+
+- **Q3:** A plataforma atende aos requisitos básicos de acessibilidade e usabilidade?  
+  **Hipótese Q3:** Nenhuma não conformidade grave de acessibilidade é identificada em auditorias
+
+- **Q4:** A documentação técnica está completa e atualizada conforme os padrões?  
+  **Hipótese Q4:** ≥ 85% da documentação técnica está completa e atualizada
+
+## Relação entre Objetivos de Medição, Questões e Métricas
+
+### Objetivo de Medição 1 – Portabilidade
+
+| Questão | Métrica |
+|---------|---------|
+| Q1: A plataforma web funciona corretamente em todos os navegadores principais? | M1: Taxa de compatibilidade com navegadores (%) |
+| Q2: É possível instalar e executar o aplicativo móvel em diferentes dispositivos? | M2: Taxa de sucesso de instalação em dispositivos móveis (%) |
+| Q3: Qual é o tempo necessário para adaptar a plataforma para uma nova arquitetura? | M3: Tempo médio de build para nova plataforma (horas) |
+| Q4: A plataforma apresenta estabilidade consistente entre diferentes ambientes? | M4: Taxa de crashes específicos de plataforma (%) |
+
+### Objetivo de Medição 2 - Conformidade
+
+| Questão | Métrica |
+|---------|---------|
+| Q1: Os endpoints da API estão em conformidade com os padrões REST e documentação OpenAPI? | M1: Percentual de endpoints em conformidade (%) |
+| Q2: O código-fonte atende aos padrões de qualidade definidos pelo ESLint? | M2: Número de violações ESLint por mil linhas de código |
+| Q3: A plataforma atende aos requisitos básicos de acessibilidade e usabilidade? | M3: Número de não conformidades graves de acessibilidade |
+| Q4: A documentação técnica está completa e atualizada conforme os padrões? | M4: Percentual de completude da documentação técnica (%) |
+
+## Bibliografia
+
+- **ISO/IEC 25010:2011.** *Systems and Software Engineering — Systems and Software Quality Requirements and Evaluation (SQuaRE) — System and Software Quality Models*. International Organization for Standardization, 2011.
 
 ## 📝 Histórico de Versões
 
