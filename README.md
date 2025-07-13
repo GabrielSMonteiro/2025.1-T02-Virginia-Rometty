@@ -41,11 +41,12 @@
 
 ## :bookmark_tabs: Documentação 
 
-- [Documentação 1](linkDocumentacao1)
-- [Documentação 2](linkDocumentacao1)
-- [Documentação 3](linkDocumentacao1)
-- [Documentação 4](linkDocumentacao1)
-- [Documentação 5](linkDocumentacao1)
+- [Fase 01](fase1/proposito_avaliacao.md)
+- [Ferramentas](fase1/ferramentas.md)
+- [Fase 02](fase2/detalhamento.md)
+- [Abstraction Sheet](fase2/fase2/abstraction.md)
+- [Fase 03](fase3/execucao.md)
+- [Fase 04](fase4/resultado.md)
 
 
 ## :octocat: Histórico de versão 
