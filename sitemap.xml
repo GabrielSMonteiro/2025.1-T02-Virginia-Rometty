@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T01-KAY-MCNULTY/</loc>
-         <lastmod>2025-07-11</lastmod>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/fase1/proposito_avaliacao/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/fase2/abstraction/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/fase2/detalhamento/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/fase3/execucao/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/fase4/resultado/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://FCTE-Qualidade-de-Software-1.github.io/2025-1-T02-VIRGINIA-ROMETTY/planejamento/ferramentas/</loc>
+         <lastmod>2025-07-13</lastmod>
     </url>
 </urlset>
