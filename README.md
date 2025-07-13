@@ -42,9 +42,9 @@
 ## :bookmark_tabs: Documentação 
 
 - [Fase 01](docs/fase1/proposito_avaliacao.md)
-- [Ferramentas](docs/fase1/ferramentas.md)
+- [Ferramentas](docs/planejamento/ferramentas.md)
 - [Fase 02](docs/fase2/detalhamento.md)
-- [Abstraction Sheet](docs/fase2/fase2/abstraction.md)
+- [Abstraction Sheet](docs/fase2/abstraction.md)
 - [Fase 03](docs/fase3/execucao.md)
 - [Fase 04](docs/fase4/resultado.md)
 
