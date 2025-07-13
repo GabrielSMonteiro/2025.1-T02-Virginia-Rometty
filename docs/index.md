@@ -12,7 +12,7 @@ Essa documentação aborda todo o processo para a análise da qualidade da plata
 </div>
 
 <div align="center">
-    <img src="/assets/virginia.jpg" alt="Virginia Rometty" width="350" height="500" style=" max-width: 80%; height: auto; margin-bottom: 20px;">
+    <img src="https://imgs.search.brave.com/dZQOs44LwKR8BRD793vos-hpDbBPX67swqMHplj6rgA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2FiL0dp/bm5pX1JvbWV0dHlf/YXRfdGhlX0ZvcnR1/bmVfTVBXX1N1bW1p/dF9pbl8yMDExLmpw/Zy81MTJweC1HaW5u/aV9Sb21ldHR5X2F0/X3RoZV9Gb3J0dW5l/X01QV19TdW1taXRf/aW5fMjAxMS5qcGc" alt="Virginia Rometty" width="350" height="500" style=" max-width: 80%; height: auto; margin-bottom: 20px;">
 </div>
 
 ## Membro do projeto

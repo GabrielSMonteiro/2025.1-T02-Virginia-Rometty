@@ -61,13 +61,4 @@ nav:
       - GQM: fase2/detalhamento.md
       - Abstraction Sheets: fase2/abstraction.md
   - Fase 03: fase3/execucao.md
-  - Fase 04:
-      - Compatibilidade:
-          - Q1: fase4/compatibilidade/q1.md
-          - Q2: fase4/compatibilidade/q2.md
-      - Usabilidade:
-          - Q1: fase4/usabilidade/q1.md
-          - Q2: fase4/usabilidade/q2.md
-          - Q3: fase4/usabilidade/q3.md
-      - Conclusão: fase4/conclusao.md
-  - Entrega Final: entregafinal/gestao.md
+  - Fase 04: fase4/resultado.md
