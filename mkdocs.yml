@@ -61,4 +61,6 @@ nav:
       - GQM: fase2/detalhamento.md
       - Abstraction Sheets: fase2/abstraction.md
   - Fase 03: fase3/execucao.md
-  - Fase 04: fase4/resultado.md
+  - Fase 04: 
+      - Resultado: fase4/resultado.md
+      - Apresentação: fase4/apresentacao.md
