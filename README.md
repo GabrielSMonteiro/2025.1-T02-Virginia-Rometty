@@ -42,6 +42,8 @@
 
 <iframe width="1328" height="747" src="https://youtu.be/q0FExOOiCiE" title="Apresentação Virginia Rometty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br> 
+
 [Vídeo no drive](https://drive.google.com/file/d/1ND11lsy8voDzzRs6sC40jyPzqqp3ClhV/view?usp=drive_link)
 
 ## Slides apresentação
